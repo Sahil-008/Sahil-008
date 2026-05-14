@@ -44,4 +44,4 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
+- LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/sahil-kumar-0818sk/)
