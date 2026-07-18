@@ -1,120 +1,151 @@
 <div align="center">
 
-# 👋 Hi, I'm Sahil
+# Hi there 👋 I'm Sahil
 
-### 📊 Data Science Student | Machine Learning Enthusiast | AI Explorer
+### 📊 Data Science Student • Aspiring Data Scientist • Aspiring Machine Learning Engineer
 
-*"Turning data into insights and ideas into intelligent solutions."*
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+C%2B%2B+%7C+Java;Building+AI-powered+Solutions;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Sahil-008&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-* 🎓 Data Science student passionate about solving real-world problems with data.
-* 🤖 Interested in Machine Learning, Deep Learning, and Artificial Intelligence.
-* 📈 Learning Data Analysis, Data Visualization, and Model Deployment.
-* 🧠 Exploring Large Language Models (LLMs) and Generative AI.
-* 🌱 Currently improving my Python, SQL, and statistics skills.
-* 🎯 Goal: Build impactful AI and data-driven applications.
+🎓 I'm a **Data Science student** with a strong interest in transforming data into meaningful insights and intelligent solutions.
 
----
+💡 I enjoy working on projects involving **Machine Learning, Data Analysis, Predictive Modeling, and AI applications**.
 
-## 🛠️ Tech Stack
+🌱 I'm continuously expanding my knowledge by building projects and exploring new techniques in data science.
 
-### Programming
+🎯 **Career Goals**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,r,c,java" />
-</p>
-
-### Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+* 📈 Data Scientist
+* 🤖 Machine Learning Engineer
 
 ---
 
-## 📚 Currently Learning
+# 🛠️ Tech Stack
 
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Generative AI
-* Data Engineering
-* MLOps
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+</p>
+
+### 📊 Data Science & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### 🌐 Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+# 🚀 Featured Projects
+
+### 📊 Predicting Productivity and Health
+
+Machine learning project focused on analyzing productivity and health-related patterns using data-driven approaches.
+
+🔗 https://github.com/Sahil-008/Predicting-Productivity-and-Health-
+
+---
+
+### 🧠 Nexa's AI
+
+An AI-focused project exploring intelligent solutions and practical AI applications.
+
+🔗 https://github.com/Sahil-008/Nexa-s-AI
+
+---
+
+### 📈 ChurnSense
+
+Customer churn analysis project aimed at understanding churn trends and improving business insights.
+
+🔗 http://github.com/Sahil-008/ChurnSense-Understand-customer-churn-trends-with-clarity
+
+---
+
+### ⚙️ RevStack
+
+Core logic engine for revision tracking and structured version management.
+
+🔗 https://github.com/Sahil-008/RevStack-Core-logic-engine-for-revision-tracking
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sahil-008&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-008&layout=compact&theme=tokyonight" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahil-008&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-008&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Sahil-008&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Sahil-008&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 🌱 Currently Exploring
 
-> Replace these with your best repositories.
-
-* 📊 Data Analysis Projects
-* 🤖 Machine Learning Models
-* 🧠 Deep Learning Experiments
-* 📈 Data Visualization Dashboards
-* 📝 Exploratory Data Analysis (EDA)
-* 🚀 AI Mini Projects
-
----
-
-## 💡 Interests
-
-* Artificial Intelligence
 * Machine Learning
 * Data Science
-* Computer Vision
-* NLP
-* LLMs
-* Open Source
+* Artificial Intelligence
+* Data Visualization
+* Real-world ML Projects
 
 ---
 
-## 🌐 Connect With Me
+# 🤝 Connect With Me
 
-* LinkedIn: *(Add your profile)*
-* Portfolio: *(Add when you have one)*
-* Email: *(Your email)*
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ *"Learning every day, building one project at a time."*
+### ⚡ *Learning • Building • Improving • Repeating*
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-008&theme=tokyo-night&hide_border=true"/>
 
 </div>
