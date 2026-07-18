@@ -100,10 +100,15 @@ Core logic engine for revision tracking and structured version management.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahil-008&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=Sahil-008&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-008&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-008&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+/>
 </p>
 
 <p align="center">
@@ -126,15 +131,15 @@ Core logic engine for revision tracking and structured version management.
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/sahil-kumar-0818sk">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="[YOUR_LEETCODE_URL](https://leetcode.com/u/user3872XW/)">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sahil.sk0818@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
