@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • Problem Solver
+</h3>
+
 <p align="center">
-  CSE Student | Backend Developer | ML Enthusiast
+Building scalable web applications and exploring AI-powered solutions.
 </p>
 
 ---
