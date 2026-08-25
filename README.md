@@ -100,11 +100,17 @@ Core logic engine for revision tracking and structured version management.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahil-008&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-008&layout=compact&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Sahil-008&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahil-008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-008&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Sahil-008&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
@@ -142,6 +148,12 @@ Core logic engine for revision tracking and structured version management.
 
 ### ⚡ *Learning • Building • Improving • Repeating*
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-008&theme=tokyo-night&hide_border=true"/>
 
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-008&theme=tokyo-night&hide_border=true&area=true"
+  width="100%"
+
+
+</div>
 </div>
